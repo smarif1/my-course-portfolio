@@ -6,7 +6,7 @@ Welcome to my academic portfolio for CEP 146!
 - **Name:** Syed Mohammad Arif
 - **Major:** Computer Programming and Analysis
 - **Year:** 2026 Academic Year
-- **Favorite Programming Language:** Python
+- **Favorite Programming Language:** Python & Javascript
 
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
